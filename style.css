@@ -392,7 +392,12 @@ body.dark-mode .hero-section {
 .demo-image {
     max-width: 100%;
     border-radius: 10px;
-    box-shadow: var(--shadow);
+    box-shadow: var(--blur-effect);
+}
+.logo-text {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
 }
 
 .cta-buttons {
@@ -809,8 +814,22 @@ body.dark-mode .form-group textarea {
     flex: 1;
     min-width: 200px;
     margin-bottom: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+.footer-text {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 17px;
+    margin-left: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .footer-links {
     flex: 2;
     display: flex;
