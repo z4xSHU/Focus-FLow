@@ -25,5 +25,5 @@
   Available on Windows, macOS, and Linux. Sync your data seamlessly across devices.
 
 ---
-   git clone https://github.com/your-username/focus-flow.git
+   git clone : https://github.com/z4xSHU/Focus-FLow
    cd focus-flow
